@@ -1,5 +1,5 @@
-# 2022-PH482-PH582
-Repo for the 2022 course on Machine Learning at the University of Alabama.   
+# 2023-PH451-PH551
+Repo for the 2023 course on Machine Learning at the University of Alabama.   
 For details on the submission of the exercises see [here](Exercises/SubmissionDetails.md).
 
 Following the book [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron.
